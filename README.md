@@ -7,10 +7,9 @@ This is a simple text-based implementation of the popular Indian quiz show, Kaun
 - Multiple-choice questions with four options (a, b, c, d).
 - Players can select an option for each question.
 - Correct answers lead to winning virtual money.
-- Incorrect answers result in the end of the game.
 
 ## Requirements
-- Python 3.x
+- Python 3.11.4
 
 ## How to Run
 1. Ensure you have Python installed on your machine.
